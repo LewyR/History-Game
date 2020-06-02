@@ -1,0 +1,81 @@
+.fundo{
+    background-color: orange;
+    padding: 15px;
+    font-size: 20px;
+}
+
+.fundoEstr{
+  background-color: orange;
+  padding: 15px;
+  height: 1350px;
+}
+
+.menu  {
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+    background-color: black;
+    border: 2px solid lightgray; border-radius: 10px;
+    font-size: 20px; font-weight: bold;
+  }
+  
+  li {
+    float: left;
+    position: relative;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  h4 {
+  text-align: center;
+  font-size: 15px;
+  font-weight: bold;
+  }
+
+  #grid{
+    padding: 20px;
+    background: white;
+    height: 275px;
+    border: 2px solid lightgray;
+    text-align: left;  
+}
+
+#grid-estr{
+  padding: 20px;
+  background: white;
+  height: 1200px;
+  border: 1px solid black;
+  text-align: left;
+ 
+}
+
+#imagemEstr{
+  border: 1px solid black;
+  
+}
+
+#gridCont{
+  padding: 20px;
+  background: white;
+  height: 655px;
+  border: 1px solid black;
+  text-align: left;
+ 
+}
+
+#gridForm{
+  padding: 20px;
+  background: white;
+  height: 365px;
+  border: 1px solid lightgray;
+  text-align: left;
+ 
+}
+
+
