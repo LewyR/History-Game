@@ -2,7 +2,9 @@
 
 Acesso do jogo via Google Drive:
 
-Para transferir o jogo para outros computadores:https://drive.google.com/drive/folders/1qVz8t2JzM4kj-jaMp5nEtMAYIe6zrlm6?usp=sharing
+Para transferir o jogo para outros computadores segue o link: 
+
+https://drive.google.com/drive/folders/18hl3jtN-pHiW8jnePpHsPO27daQnE0rd?usp=sharing
 
 1. Baixar o arquivo .rar disponibilizado pelo Google Drive
 2. Extrair em alguma pasta desejada
